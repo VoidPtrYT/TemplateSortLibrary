@@ -1,0 +1,7 @@
+﻿  VPLib.cpp
+c:\users\hazker\source\repos\vplib\vplib\vplib.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\hazker\source\repos\vplib\vplib\vplib.cpp(51): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+c:\users\hazker\source\repos\vplib\vplib\vplib.cpp(67): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\hazker\source\repos\vplib\vplib\vplib.cpp(74): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  VPLib.vcxproj -> C:\Users\Hazker\source\repos\VPLib\x64\Debug\VPLib.exe
+  VPLib.vcxproj -> C:\Users\Hazker\source\repos\VPLib\x64\Debug\VPLib.pdb (Full PDB)
