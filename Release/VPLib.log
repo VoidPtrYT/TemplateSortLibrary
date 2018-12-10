@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  VPLib.cpp
+VPLib.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  VPLib.vcxproj -> C:\Users\Hazker\source\repos\VPLib\Release\VPLib.exe
+  VPLib.vcxproj -> C:\Users\Hazker\source\repos\VPLib\Release\VPLib.pdb (Full PDB)

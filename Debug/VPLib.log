@@ -1,4 +1,5 @@
-﻿  VPLib.cpp
-c:\users\hazker\source\repos\vplib\vplib\vplib.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+﻿  pch.cpp
+  VPLib.cpp
+c:\users\hazker\source\repos\vplib\vplib\vplib.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   VPLib.vcxproj -> C:\Users\Hazker\source\repos\VPLib\Debug\VPLib.exe
   VPLib.vcxproj -> C:\Users\Hazker\source\repos\VPLib\Debug\VPLib.pdb (Full PDB)

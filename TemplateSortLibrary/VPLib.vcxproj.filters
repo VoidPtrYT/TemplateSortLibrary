@@ -24,13 +24,13 @@
     <ClInclude Include="Sort.h">
       <Filter>VPTSL</Filter>
     </ClInclude>
+    <ClInclude Include="buble_sort.h">
+      <Filter>VPTSL</Filter>
+    </ClInclude>
     <ClInclude Include="counted_sort.h">
       <Filter>VPTSL</Filter>
     </ClInclude>
-    <ClInclude Include="bubble_sort.h">
-      <Filter>VPTSL</Filter>
-    </ClInclude>
-    <ClInclude Include="counted_bubble_sort.h">
+    <ClInclude Include="counted_buble_sort.h">
       <Filter>VPTSL</Filter>
     </ClInclude>
   </ItemGroup>
